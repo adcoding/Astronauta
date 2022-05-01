@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: #251D3A;
+}
+
+.title-container {
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 15px;
+    color: #fff;
+}
